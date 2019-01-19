@@ -26,7 +26,6 @@ package MatrixForBerdychev;
                      System.out.println("Nu ty podzemelnik");
                  }
 
-
              }
 
          }
